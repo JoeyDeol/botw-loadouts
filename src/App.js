@@ -1,6 +1,9 @@
 import React from 'react';
 import './App.scss';
 
+// Component Imports
+import Header from './components/Header';
+
 class App extends React.Component {
 
 
@@ -8,7 +11,7 @@ class App extends React.Component {
   render() {
     return (
       <div className="App">
-        <h1>Initial Commit</h1>
+        <Header />
       </div>
     );
   }
