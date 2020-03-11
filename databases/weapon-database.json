@@ -1,0 +1,80 @@
+[
+  {
+    "Weapon Name": "Master Sword",
+    "Weapon Image": "./assets/BotW_Master_Sword_Icon.png",
+    "Attack": 30,
+    "Description": "The Legendary sword that seals the darkness. Its blade gleams with a sacred luster that can oppose the Calamity. Only a hero chosen by the sword itself may wield it."
+  },
+  {
+    "Weapon Name": "Flameblade",
+    "Weapon Image": "./assets/BotW_Flameblade_Icon.png",
+    "Attack": 24,
+    "Description": "This magical sword was forged in the lava of Death Mountain. It leaves white-hot flames in its wake when the blade glows red."
+  },
+  {
+    "Weapon Name": "Frostblade",
+    "Weapon Image": "./assets/BotW_Frostblade_Icon.png",
+    "Attack": 20,
+    "Description": "A magical sword forged in the frigid mountains of the Hebra region. When the blade glows blue, enemies struck by it will become frozen."
+  },
+  {
+    "Weapon Name": "Thunderblade",
+    "Weapon Image": "./assets/BotW_Thunderblade_Icon.png",
+    "Attack": 22,
+    "Description": "A magical sword forged and refined by lightning from the Hyrule Hills. When the blade shines with a golden light, it will electrocute enemies struck by it."
+  },
+  {
+    "Weapon Name": "Scimitar of the Seven",
+    "Weapon Image": "./assets/BotW_Scimitar_of_the_Seven_Icon.png",
+    "Attack": 32,
+    "Description": "A famous sword once beloved by the Gerudo Champion Urbosa. It is said that when Urbosa swung this sword in battle, her movements resembled a beautiful dance."
+  },
+  {
+    "Weapon Name": "Windcleaver",
+    "Weapon Image": "./assets/BotW_Windcleaver_Icon.png",
+    "Attack": 40,
+    "Description": "This sword is favored by high-ranking members of the Yiga. When wielded by a proficient fighter, its unique shape cleaves the very wind and creates a vacuum."
+  },
+  {
+    "Weapon Name": "Ancient Bladesaw",
+    "Weapon Image": "./assets/BotW_Ancient_Bladesaw_Icon.png",
+    "Attack": 55,
+    "Description": "This two-handed sword was forged using ancient Sheikah technology. Its unique rotating blades give it impressive cutting power that will slice enemies to shreds."
+  },
+  {
+    "Weapon Name": "Boulder Breaker",
+    "Weapon Image": "./assets/BotW_Boulder_Breaker_Icon.png",
+    "Attack": 60,
+    "Description": "This two-handed weapon was once wielded by the Goron Champion Daruk. Daruk made swinging it around look easy, but a Hylian would need an immense amount of strength."
+  },
+  {
+    "Weapon Name": "Savage Lynel Crusher",
+    "Weapon Image": "./assets/BotW_Savage_Lynel_Crusher_Icon.png",
+    "Attack": 78,
+    "Description": "This Lynel-made two-handed weapon is immensely heavy thanks to a rare metal from Death Mountain's peak. The power of its downward swing is in a class all its own."
+  },
+  {
+    "Weapon Name": "Guardian Spear++",
+    "Weapon Image": "./assets/BotW_Guardian_Spear_Icon.png",
+    "Attack": 20,
+    "Description": "This Guardian spear's output has been boosted to the maximum. The spearhead is designed for optimal stabbing, capable of easily piercing most armor."
+  },
+  {
+    "Weapon Name": "Lightscale Trident",
+    "Weapon Image": "./assets/BotW_Lightscale_Trident_Icon.png",
+    "Attack": 22,
+    "Description": "A spear of peerless grace cherished by the Zora Champion Mipha. Although Mipha specialized in healing abilities, her spearmanship was in a class all its own."
+  },
+  {
+    "Weapon Name": "Royal Halberd",
+    "Weapon Image": "./assets/BotW_Royal_Halberd_Icon.png",
+    "Attack": 26,
+    "Description": "This spear was issued to the knights who guarded Hyrule Castle's throne room. Its ornate design was applied by a craftsman in service to the royal family."
+  },
+  {
+    "Weapon Name": "Savage Lynel Spear",
+    "Weapon Image": "./assets/BotW_Savage_Lynel_Spear_Icon.png",
+    "Attack": 30,
+    "Description": "White-haired Lynels favor this brutal spear. Its axe-like spearhead and exceptional weight give it absolute destructive power."
+  }
+]
